@@ -84,6 +84,3 @@ This document provides a comprehensive guide for downloading, setting up, and lo
 - **MySQL** for database creation and data loading.
 - **Sqoop** for importing data from MySQL to Hadoop HDFS.
 
-## Points of Contact
-- Mustafa Ali: mustafa@example.com
-
