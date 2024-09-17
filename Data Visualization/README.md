@@ -9,6 +9,6 @@ The dashboard provides insights into fraudulent activities based on various para
 ## How to Use
 
 To view the dashboard:
-1. Download and install Power BI Desktop from [here](https://powerbi.microsoft.com/desktop/).
-2. Open the dashboard file : [here](https://drive.google.com/file/d/1PsURAb8jmhcYm0DQw-0HNm7y7aUybvZy/view?usp=sharing).
+1. Download and install Power BI Desktop
+2. Open the dashboard file from : [here](https://drive.google.com/file/d/1PsURAb8jmhcYm0DQw-0HNm7y7aUybvZy/view?usp=sharing).
 3. Interact with the visualizations to explore the fraud detection data.
