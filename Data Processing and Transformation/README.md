@@ -17,7 +17,7 @@ If you will be working with the notebook locally, Please ensure you have downloa
 * Correlation Analysis: A correlation matrix is generated to examine relationships between numerical features. Visualizing this matrix helps identify which variables are strongly related to fraud detection.
 * Save the DataFrame: After processing, the DataFrame can be saved either back to HDFS for distributed storage or locally for smaller-scale work. The format used is typically CSV for easy access and further analysis.
   
-## Environment Options:
+## Environment Options
 1. Locally on Jupyter Notebook or JupyterLab:
 
    * Install Jupyter Notebook or JupyterLab.
