@@ -10,9 +10,6 @@ If you will be working with the notebook locally, Please ensure you have downloa
 ## Notebook Overview
 ### Sections:
 * Environment Setup: In this step, essential libraries are imported, and a Spark session is initiated with optimized memory and partition settings. This setup ensures efficient data handling and processing for the entire workflow.
-  
-   * Importing Libraries: Load the necessary tools and libraries for data manipulation, visualization,  to set up the environment for analysis. 
-   * Spark Session: Create Spark session with optimized memory and partitioning settings to ensure efficient handling of large datasets during processing.
 * Loading the Data: Data can be loaded either from HDFS (for large-scale distributed storage) or from local files (for smaller datasets). The choice depends on the dataset size and the environment.
 * Exploratory Data Analysis: The dataset is inspected to understand its structure, content, and basic statistics. This step involves displaying data samples, reviewing schema, and calculating summary statistics to get an overall feel of the data.
 * Data Processing & Transformation: Columns are renamed for clarity, missing values are handled, and necessary transformations like feature vector assembly and cleaning are performed to prepare the dataset for further analysis.
