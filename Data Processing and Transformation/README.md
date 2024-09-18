@@ -4,7 +4,7 @@
 This notebook provides a comprehensive analysis of the fraud detection dataset, from initial data loading and processing. The insights derived from this analysis can help in building robust fraud detection systems.
 
 ## Dataset
-The dataset used in this analysis is sourced from Kaggle and can be accessed [here](https://www.kaggle.com](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset/data)).
+The dataset used in this analysis is sourced from Kaggle and can be accessed [HERE](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset/data).
 If you will be working with the notebook locally, Please ensure you have downloaded the dataset and placed it in the appropriate directory before running the notebook.
 
 ## Notebook Overview
